@@ -53,4 +53,4 @@ jobs:
           app-name: 'appsvcnm5'
           slot-name: 'dev'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5412735C7D664B09A0FEEB82B89B6BAD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B1BD1F15604A44A5A558067616EB57D2 }}
